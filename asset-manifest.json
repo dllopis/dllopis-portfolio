@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dllopis-portfolio/static/css/main.f855e6bc.css",
+    "main.js": "/dllopis-portfolio/static/js/main.cb0bcde3.js",
+    "static/js/592.894d9882.chunk.js": "/dllopis-portfolio/static/js/592.894d9882.chunk.js",
+    "static/media/logo.svg": "/dllopis-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/dllopis-portfolio/index.html",
+    "main.f855e6bc.css.map": "/dllopis-portfolio/static/css/main.f855e6bc.css.map",
+    "main.cb0bcde3.js.map": "/dllopis-portfolio/static/js/main.cb0bcde3.js.map",
+    "592.894d9882.chunk.js.map": "/dllopis-portfolio/static/js/592.894d9882.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.cb0bcde3.js"
+  ]
+}
